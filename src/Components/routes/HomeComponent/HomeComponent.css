@@ -1,8 +1,7 @@
 div
 {
     text-align: center;
-    position:relative;
-    
+    position:relative;  
 }
 
 img{
@@ -11,8 +10,21 @@ img{
     margin-right:75px;
     margin-left: 75px;
     position: relative;
-
 }
+
+.main {
+    background-image: url(
+        "https://www.saveetha.ac.in/images/sec/2024/sdd.jpg"
+    );
+    display: flex;
+    flex-direction: column;
+    background-size: 1800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 580px;
+    justify-content: center;
+    align-items: center;
+  }
 
 
   
