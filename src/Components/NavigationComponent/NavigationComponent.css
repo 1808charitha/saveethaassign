@@ -1,0 +1,21 @@
+.borderupside{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(98, 95, 90);
+    margin-top: 0px;
+    width: 1364px;  
+
+}
+li
+{
+    margin: 10px;
+    list-style-type:none;
+    padding: 20px;
+    font-size:larger;
+    margin-left: -20px;
+}
+
+
+ /* ul li{
+    list-style-type:
+ } */

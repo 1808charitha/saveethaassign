@@ -1,0 +1,36 @@
+.event-component {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .event-slider {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .image-container {
+    position: relative;
+    max-width: 300px; 
+    margin: 0 10px;
+  }
+  
+  .slider-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .image-description {
+    position: absolute;
+    bottom: 0px;
+    left: 10px;
+    right: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+  
+  }
+  
